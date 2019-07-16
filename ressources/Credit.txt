@@ -1,0 +1,36 @@
+Bomberman de Guillaume Magniadas, dans le cadre d'un projet Reseau.
+
+Développé par Guillaume Magniadas.
+
+Tout le contenue utilisé est libre de droit (exepté lorsque précisé)
+
+Font:
+
+Avara : https://fontlibrary.org/fr/font/avara
+
+
+Bruitages:
+	Son Loby : https://opengameart.org/content/ui-sound-effects-pack
+
+	Bombes explosion : domaine publique, pas de liens
+
+
+Musiques:
+
+	Menu = https://opengameart.org/content/grassy-world-overture-8bitorchestral
+
+	Loby = https://opengameart.org/content/waiting-iii
+
+	Musique en jeu :
+		Circlerun : https://opengameart.org/content/adventure-platform-menu-bgm-pack-i
+
+		asgore - /!\ non libre de droit /!\ : Undertale - Asgore Theme
+
+
+
+Sprites:
+	Personnage /!\ trouvé sur google, aucune certitude sur les droits /!\
+
+	Fond menu : https://imgur.com/gallery/VZ9H2
+
+	Bombe /!\ trouvé sur google /!\ (le fond du loby en découle)

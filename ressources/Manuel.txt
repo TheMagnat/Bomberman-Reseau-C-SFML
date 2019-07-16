@@ -1,0 +1,45 @@
+GUIDE D'UTILISATION Du Bomberman de Guillaume Magniadas
+
+----
+Menu
+
+Sur le menu, flèche du haut, flèche du bas pour naviguer dans le menu, entrer pour choisir (Z et S fonctionnent aussi)
+
+Quand vous devez rentrer l'adresse ou le port, tapez le simplement puis faites entrée.
+
+-----
+Lobby
+
+Sur le lobby, les lettres permettent d'écrire des messages, et entrer permet de les envoyer.
+Vous pouvez effacer le contenu actuel du chat en cliquant sur Clear (Le bouton Bleu).
+Si vous êtes l'hôte, vous pouvez choisir la map avec les flèches gauche et droite.
+				   , vous pouvez changer les options de partie en cliquant sur les petits + et -.
+				   , vous devez lancer la partie quand vous le souhaitez en appuyant sur le bouton Start vert en haut à droite, ou en faisant la flèche vers le haut si vous ne voulez pas utiliser votre souris ;).
+
+-----
+En partie
+
+Vous êtes toujours le personnage Bleu.
+
+En partie, il faut utiliser ZQSD pour se déplacer et espace pour poser une bombe, il y a 3 bonus : vitesse, plus de puissance et plus de bombes. Ils sont assez explicites :)
+
+Une partie se termine quand il ne reste plus qu'un joueur, si vous êtes l'hôte, appuyer sur entrer pour envoyer l'ordre de retour vers le lobby.
+
+
+
+-----
+Note
+
+Apuyer sur la touche echap vous fera toujours revenir sur le menu, et si vous êtes déjà sur celui-ci, cela fermera le jeu.
+
+
+----
+Map
+
+Il est possible de rajouter des map au dossier map et de jouer dessus en partie.
+Pour ce faire il suffit d'écrire une map en s'inspirant des map déjà faites. C'est-à-dire, indiquer la longueur et la hauteur en entête du fichier, puis écrire des chiffres entre 0 et 2 inclus (0 = case Vide, 1 = Bloque cassable, 2 = bloque incassable) et ce (longueur * hauteur) fois. Le fichier doit avoir comme extension .txt et une fois ceci fait, rajouter un fichier avec .txp comme extention possédant les positions possibles de spawn pour les joueurs, c'est-à-dire des couples X et Y autant de fois qu'il y a de spawn. (Je conseille d'en mettre au moins 4) (Note : Le résultat est indéterminé si vous sélectionnez une map avec moins de joueurs que présents en partie..)
+
+----
+Musique
+
+Il est possible de rajouter des musiques dans le dossier music/game, il suffit de glisser des fichiers audios dedans. A noter que certains formats comme le mp3 ne sont pas supportés. (Je conseille le format .ogg)

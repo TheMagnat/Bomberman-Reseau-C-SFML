@@ -1,0 +1,3 @@
+le dossier game permet de choisir sa playlist pendant une partie en y glissant toute les musiques que veut y mettre.
+
+Ne pas mettre de fichier autre que des fichiers audio. Certaines extensions ne sont pas prises en charge (comme le .mp3). Il est conseillé d'utiliser le .ogg
